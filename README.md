@@ -14,7 +14,7 @@ Classification Trees with Boosting is performed using R
 At the end, we will compare the overall error rate and AUC of three models on the training and test sets;
 And dertermine the variables are important for predicting defaults (in classification trees)
 
-Remark: Sex, education and marriage are three categorical variables. One way to deal with such variables as inputs to a neural network is using one-hot vectors. The Jupyter notebook “NN-Data” provides you with the Python code to process the data.
+Remark: Sex, education and marriage are three categorical variables. One way to deal with such variables as inputs to a neural network is using one-hot vectors.
 
 For the modelling and model performance, please refer to the file 'Predictive Model.ipynb'
 
