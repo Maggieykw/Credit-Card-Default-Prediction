@@ -18,6 +18,8 @@ Remark: Sex, education and marriage are three categorical variables. One way to 
 
 For the modelling and model performance, please refer to the file 'Predictive Model.ipynb'
 
+Please be noted that the jupyter notebook contains two different kernels (Python and R). To enable multiple kernels in one Jupyter notebook, please install Script of Script (SoS) according to this link (https://vatlab.github.io/sos-docs/running.html#content)
+
 ## Dataset
 
 This dataset (see the csv file 'UCI_Credit_Card.csv') contains information on default payments, demographic fac- tors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
